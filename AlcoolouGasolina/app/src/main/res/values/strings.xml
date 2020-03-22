@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alcool ou Gasolina</string>
+    <string name="txtResultado">Resultado</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="edtGasolina">Preço Gasolina Ex:4.27</string>
+    <string name="edtAlcool">Preço Alcool Ex: 3.60</string>
+</resources>
